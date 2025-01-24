@@ -1,2 +1,1 @@
-# python-quiz-app"#Python Quiz APP "
-"# Python Quiz APP" 
+"## Features -Generate python quiz questions based on three topics (Loops, strings, lists) - displays the questions and code snippet - options to choose from - feedback on answers (correct or incorrect answer) " 
