@@ -28,7 +28,7 @@ def generate_question():
     question = random.choice(filtered_questions)
     question_label.config(text=f"Q: {question['question']}", fg="#333333")
 
-    # Display the options
+    # Display Options
     for i, option in enumerate(question["options"]):
         option_buttons[i].config(text=option, value=i)
 
