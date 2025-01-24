@@ -1,4 +1,4 @@
-"# Python Quiz App
+# Python Quiz App
 
 this python quiz app will allow users to generate and display simple questions on three topics (Loops, Strings and lists)..
 the app uses GUI built with tkinter, and it will presents predefined questions for the user answer. 
